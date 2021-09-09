@@ -1,4 +1,4 @@
-####An investigation on Lottie API 
+#### An investigation on Lottie API 
 
     A simple investigation on lottie files, to create and run a dynamic animation.
     
@@ -6,3 +6,9 @@
     
     * lottie-web: For playback on lottie animation file.
     * lottie-api: For manipulating layers of animation file.
+
+###### To setup project
+
+    * Clone the project
+    * run `yarn`
+    * run `yarn start`
